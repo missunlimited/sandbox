@@ -1,4 +1,4 @@
-package org.AtCoder;
+package org.atcoder;
 
 /**
  * ある商品のN日間の売上が整数列A_1, A_2, ... A_Nとして与えられる。
@@ -20,6 +20,6 @@ package org.AtCoder;
  */
 public class UpandDown {
     public void upandDown() {
-        
+
     }
 }

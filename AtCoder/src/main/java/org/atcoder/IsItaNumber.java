@@ -1,4 +1,4 @@
-package org.AtCoder;
+package org.atcoder;
 
 import java.util.InputMismatchException;
 import java.util.Scanner;
