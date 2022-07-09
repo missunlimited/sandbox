@@ -1,4 +1,4 @@
-package org.AtCoder;
+package org.atcoder;
 
 import static org.junit.Assert.assertTrue;
 
